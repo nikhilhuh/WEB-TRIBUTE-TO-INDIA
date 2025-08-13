@@ -1,0 +1,45 @@
+fonts ->
+@import url("https://fonts.cdnfonts.com/css/ica-rubrik-black");
+@import url("https://fonts.cdnfonts.com/css/poppins");
+
+aos js ->
+https://unpkg.com/aos@2.3.1/dist/aos.js
+aos css->
+https://unpkg.com/aos@2.3.1/dist/aos.css
+
+colors ->
+  --chakra-blue: #1a4d8bed;
+  --saffron: rgba(255, 153, 51, 0.8);
+  --beige: #f4e3c1;
+  --soft-green: rgba(30, 147, 71, 0.8);
+  --semi-transparent: #d58c3330;
+  --saffron-tint: rgba(255, 153, 51, 0.35);
+  --white-frost: rgba(255, 255, 255, 0.25);
+  --green-tint: rgba(19, 136, 8, 0.35);
+
+subtext ->
+From Independence to Innovation — India's Journey in the Digital Era.
+↓ Scroll down to see India's digital journey
+
+gallery ->
+Mahatma Gandhi – Father of the Nation, who led India’s independence through non-violence. His ideals now inspire the pursuit of self-reliance in the digital era, free from technological dependence on external powers.
+Bhagat Singh – A fearless revolutionary who fought for India’s freedom. His courage inspires today’s youth to protect digital rights, online freedom of speech, and equal access to information.
+Rani Lakshmibai – The Queen of Jhansi who became a symbol of resistance in 1857. Her fight for sovereignty echoes in the defense of digital independence and cyber security for the nation.
+ISRO – The Indian Space Research Organisation, building indigenous satellites and missions like Mangalyaan and Chandrayaan. This strengthens India’s digital sovereignty and data independence from space.
+Unified Payments Interface – A global model for instant, free digital payments. UPI empowers citizens with financial autonomy and strengthens India’s digital economy.
+Smart Cities Mission – Building connected urban spaces with AI, IoT, and data-driven planning. Symbolizes freedom to live in safe, sustainable, and digitally intelligent environments.
+Young Innovators – Developing AI, blockchain, and VR solutions that secure privacy, expand access, and shape India’s leadership in the global digital space.
+Digital Education – Empowering students across India with free online learning platforms and open educational resources, ensuring knowledge reaches every corner.
+
+India In Numbers section ->
+India by the Numbers: Power in Every Digit
+From the smallest village to the busiest metro, India's digital,scientific, and economic growth is rewriting the world’s records.
+📶 700 Million Internet Users – Connecting villages, cities, and dreams at lightning speed.
+💳 8 Billion/Month UPI Transactions – A global leader in digital payments and financial inclusion.
+🚀 100 + ISRO – From Chandrayaan to Mars, reaching for the stars.
+🏭 3rd largest Startup Ecosystem – Driving the next global tech revolution.
+
+Footer ->
+© Digital Freedom Gallery • Code a Vision • Design the Nation
+Design with ❤️ for India
+Proud to be Indian , Bharat Mata ki Jay, Vande Matram
